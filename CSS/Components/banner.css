@@ -1,0 +1,16 @@
+.banner {
+    background-image: url('https://www.chromethemer.com/download/hd-wallpapers/maldives-3840x2160.jpg'); 
+    background-size: cover;
+    color: white;
+    text-align: center;
+    padding: 100px 0;
+}
+
+.banner h1 {
+    margin: 0;
+    font-size: 3em;
+}
+
+.banner p {
+    font-size: 1.5em;
+}
